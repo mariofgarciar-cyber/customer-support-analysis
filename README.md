@@ -62,6 +62,8 @@ Records analyzed: 8,469
 
 ## Dashboard Preview
 
+![Dashboard](Dashboard%20PBI%20customer%20support%20tickets.png)
+
 Power BI dashboard created to monitor ticket volume, customer satisfaction, ticket priority, and support channel performance.
 
 ---
