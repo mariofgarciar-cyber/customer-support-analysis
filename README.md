@@ -66,6 +66,70 @@ Records analyzed: 8,469
 
 Power BI dashboard created to monitor ticket volume, customer satisfaction, ticket priority, and support channel performance.
 
+## Excel Analysis
+
+The dataset was initially explored and validated using Microsoft Excel.
+
+Pivot Tables were created to analyze:
+
+* Ticket Status Distribution
+* Ticket Type Distribution
+* Ticket Channel Distribution
+* Ticket Priority Distribution
+
+These analyses were later validated using SQL queries.
+
+---
+
+## SQL Analysis
+
+SQL was used to validate all Excel findings and generate aggregated metrics.
+
+Main SQL analyses included:
+
+* Total Tickets
+* Tickets by Status
+* Tickets by Type
+* Tickets by Channel
+* Tickets by Priority
+* Average Customer Satisfaction by Channel
+* Average Customer Satisfaction by Priority
+
+The SQL results matched the Excel calculations, ensuring data consistency across tools.
+
+---
+
+## Power BI Dashboard
+
+The dashboard was developed to provide a visual representation of operational performance and customer satisfaction metrics.
+
+Main dashboard components:
+
+* Total Tickets KPI
+* Closed Tickets KPI
+* Open Tickets KPI
+* Pending Customer Response KPI
+* Tickets by Status
+* Tickets by Type
+* Tickets by Channel
+* Tickets by Priority
+* Average Satisfaction by Channel
+* Average Satisfaction by Priority
+
+---
+
+## Skills Demonstrated
+
+* Data Cleaning
+* Data Validation
+* Excel Pivot Tables
+* SQL Aggregations
+* Business Intelligence
+* Data Visualization
+* KPI Design
+* Business Analysis
+* Dashboard Development
+
 ---
 
 ## Author
